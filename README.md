@@ -1,2 +1,2 @@
-<h1>Basic Data Structures Challenges from FreeCodeCamp </h1>
+<h3>Basic Data Structures Challenges from FreeCodeCamp </h3>
 <p>---------------------------------------------------------------------</p>
